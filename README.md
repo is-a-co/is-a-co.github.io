@@ -1,13 +1,21 @@
+<h1>TL;DR ⌨️</h1> <img src="https://img.shields.io/badge/Repo%20Status-Archived-lightgrey.svg">
+<p>This project turned out to be an unprecedented phenomenal success! As a member of GitHub Education, I acquired the domain at no cost, which provided a strong foundation to build upon. The support from contributors throughout the journey was truly exceptional and played a significant role in this achievement.
+</p>
+<p>
+The domain's SEO ranking skyrocketed 🚀, far exceeding expectations, making it a valuable asset for the community. Although I had planned to renew the domain for another year to continue its use, but the domain price went up 173X times the original 🥶
+</p>
+<p>
+This repository is now archived and will remain available as a resource and reference for developers and enthusiasts.
+</p>
+<img src="https://github.com/user-attachments/assets/7c905f0c-a5f0-45d5-a82d-ad34ce7c19a0">
+<hr>
 <div align="center">
-  <h1> V2 COMING SOON! </h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/pythonicboat/is-a.co/image?description=1&font=Raleway&forks=1&issues=1&owner=0&pattern=Solid&stargazers=1&theme=Dark">
     <img src="https://socialify.git.ci/pythonicboat/is-a.co/image?description=1&font=Raleway&forks=1&issues=1&owner=0&pulls=1&pattern=Solid&stargazers=1&theme=Light">
   </picture>
   <br/>
-<img src="https://img.shields.io/github/actions/workflow/status/pythonicboat/is-a.co/tests.yml?branch=master&label=tests&logo=github&style=for-the-badge" alt="badge-tests">
-<img src="https://img.shields.io/github/actions/workflow/status/pythonicboat/is-a.co/deploy.yml?branch=master&label=deploy&logo=github&style=for-the-badge" alt="badge-deploy">
-<img src="https://img.shields.io/github/directory-file-count/pythonicboat/is-a.co/domains?label=domains&style=for-the-badge&type=file" alt="badge-domains">
+
 </div>
 
 Free subdomains for personal sites, open-source projects, and more. Here is a list of supported domain names:
